@@ -1,4 +1,4 @@
 change 1
-closing the databse connection
+closing the my sql databse connection
 change 2 in harsh database
 
