@@ -1,3 +1,6 @@
 Hello World  hello  hello how are u
 take input from user
 add the value!
+
+
+submit data to database
